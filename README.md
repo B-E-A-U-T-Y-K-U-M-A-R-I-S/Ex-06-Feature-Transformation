@@ -20,6 +20,7 @@ Save the data to the file
 
 # CODE
 /*
+~~~
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -66,4 +67,5 @@ qt = QuantileTransformer(output_distribution = 'normal')
 df5['ModerateNegativeSkew_2'] = pd.DataFrame(qt.fit_transform(df5[['ModerateNegativeSkew']]))
 sm.qqplot(df5['ModerateNegativeSkew_2'],line='45')
 plt.show()
+~~~
 */
