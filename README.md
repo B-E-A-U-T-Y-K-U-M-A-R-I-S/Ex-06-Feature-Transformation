@@ -69,3 +69,16 @@ sm.qqplot(df5['ModerateNegativeSkew_2'],line='45')
 plt.show()
 ~~~
 */
+# OUPUT
+# Feature Transformation
+![image](https://user-images.githubusercontent.com/103166779/197209713-daadc844-da11-4cf6-b4db-3abcb9164781.png)
+![image](https://user-images.githubusercontent.com/103166779/197209931-f5a1e8ce-0510-4df7-8ea3-c79de7a0918a.png)
+![image](https://user-images.githubusercontent.com/103166779/197210050-991e27a7-0a58-4e7b-bb56-0ef64be38715.png)
+![image](https://user-images.githubusercontent.com/103166779/197210302-f7e8af9a-8885-48aa-a652-5bfc2cbbfa9c.png)
+![image](https://user-images.githubusercontent.com/103166779/197210503-89a66735-6965-471a-94a2-aa4f7b59f132.png)
+![image](https://user-images.githubusercontent.com/103166779/197210740-c79e6a46-4ba0-4990-8883-1f7272292a7a.png)
+![image](https://user-images.githubusercontent.com/103166779/197211065-baf2f24c-bf69-46df-867d-460ffb6139a3.png)
+# Log Transformation
+
+
+
