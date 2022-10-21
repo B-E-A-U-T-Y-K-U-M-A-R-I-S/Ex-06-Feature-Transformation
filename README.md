@@ -21,6 +21,8 @@ Save the data to the file
 # CODE
 /*
 ~~~
+Name:Beauty Kumari S
+Reg no:212220040023
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -72,18 +74,31 @@ plt.show()
 # OUPUT
 # Feature Transformation
 ![image](https://user-images.githubusercontent.com/103166779/197209713-daadc844-da11-4cf6-b4db-3abcb9164781.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197209931-f5a1e8ce-0510-4df7-8ea3-c79de7a0918a.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197210050-991e27a7-0a58-4e7b-bb56-0ef64be38715.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197210302-f7e8af9a-8885-48aa-a652-5bfc2cbbfa9c.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197210503-89a66735-6965-471a-94a2-aa4f7b59f132.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197210740-c79e6a46-4ba0-4990-8883-1f7272292a7a.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197211065-baf2f24c-bf69-46df-867d-460ffb6139a3.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197211906-71b64a7a-cdc7-4c23-8530-f2bb0387c34b.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197212170-a670cee1-025e-4649-9584-88a7e4e28af5.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197212326-63f76916-efc5-4371-abce-91af068bbc48.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197212506-f112219f-67ff-4b77-b659-bd7924d52ff6.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197212765-95aef12a-fa7f-41fc-9514-b195c2d6a171.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/197212931-885da1ad-b499-4302-979e-f51c381f545f.png)
+
 # RESULT
 Thus the Feature Transformation for the given datasets had been executed successfully
 
